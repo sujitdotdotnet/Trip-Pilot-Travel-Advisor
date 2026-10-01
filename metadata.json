@@ -1,0 +1,6 @@
+{
+  "name": "Trip Pilot - Curated Travel Itineraries & Planning",
+  "description": "Handcrafted travel bundles for couples, families, and solo adventurers ready to travel with strangers, plus tailored custom itinerary planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
